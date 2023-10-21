@@ -7,12 +7,12 @@
 <a href="mailto:Sergei.Rabota@gmail.com"><img src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" alt="Mail" height="50"></a>
 
 #### My GitHub Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=default&hide=stars,prs,issues,contribs)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&layout=donut)](https://github.com/Niaktes/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&layout=donut)](https://github.com/Niaktes/github-readme-stats)
 
 
 
 <!--
+![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=default&hide=stars,prs,issues,contribs)
 **Niaktes/Niaktes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
