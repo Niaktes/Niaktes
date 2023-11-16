@@ -10,10 +10,11 @@
 #### My GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&layout=donut&hide=Shell)](https://github.com/Niaktes/github-readme-stats)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=default&hide=prs,issues,contribs)
 
 
 <!--
-![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=default&hide=stars,prs,issues,contribs)
+
 **Niaktes/Niaktes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
