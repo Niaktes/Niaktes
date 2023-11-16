@@ -7,7 +7,7 @@
 <a href="mailto:Sergei.Rabota@gmail.com"><img src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" alt="Mail" height="50"></a>
 
 #### My GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&layout=donut)](https://github.com/Niaktes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&layout=donut&hide=Shell)](https://github.com/Niaktes/github-readme-stats)
 
 
 
