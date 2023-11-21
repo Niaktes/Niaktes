@@ -1,16 +1,16 @@
-![Header](./header-image.png)
+![Header](./images/header.png)
 
-Right now I'm looking for a job, so feel free to contact me one of the following ways!
+<h3>Right now I'm looking for a job, so feel free to contact me one of the following ways!</h3>
 
 
-# My contacts: <img src="./Contacts.gif" height="50" loading="lazy"/>
+# My contacts: <img src="./images/Contacts.gif" height="50" loading="lazy"/>
 Phone: +7 995 299 07 34 </br>
 <a href="https://t.me/Niaktes"><img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="Telegram" height="50"></a>
 <a href="https://wa.me/89265900734"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp" height="50"></a>
 <a href="mailto:Sergei.Rabota@gmail.com"><img src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" alt="Mail" height="50"></a>
 
 
-# Used tools: <img src="./Skills.gif" height="50" loading="lazy"/>
+# Used tools: <img src="./images/Skills.gif" height="50" loading="lazy"/>
 <p float="left">
 <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396?logo=java&logoColor=white" height="25"> 
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="25">
@@ -25,7 +25,7 @@ Phone: +7 995 299 07 34 </br>
 </p>
 
 
-# My GitHub Stats: <img src="./Stats.gif" height="50" loading="lazy"/>
+# My GitHub Stats: <img src="./images/Stats.gif" height="50" loading="lazy"/>
 <p float="left">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&theme=tokyonight&hide=Shell&hide_title=true)](https://github.com/Niaktes/github-readme-stats)
