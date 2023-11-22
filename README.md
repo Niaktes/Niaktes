@@ -5,9 +5,9 @@
 
 # My contacts: <img src="./images/Contacts.gif" height="50" loading="lazy"/>
 Phone: +7 995 299 07 34 </br>
-<a href="https://t.me/Niaktes"><img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="Telegram" height="50"></a>
-<a href="https://wa.me/89265900734"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp" height="50"></a>
-<a href="mailto:Sergei.Rabota@gmail.com"><img src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" alt="Mail" height="50"></a>
+<a href="https://t.me/Niaktes"><img src="./icons/telegram_logo_icon_186899.png" alt="Telegram" height="65"></a>
+<a href="https://wa.me/89265900734"><img src="./icons/whatsapp_logo_icon_186881.png" alt="Whatsapp" height="65"></a>
+<a href="mailto:Sergei.Rabota@gmail.com"><img src="./icons/gmail_14189.png" alt="Mail" height="65"></a>
 
 
 # Used tools: <img src="./images/Skills.gif" height="50" loading="lazy"/>
@@ -29,7 +29,7 @@ Phone: +7 995 299 07 34 </br>
 <p float="left">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&theme=tokyonight&hide=Shell&hide_title=true)](https://github.com/Niaktes/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=tokyonight&hide=prs&hide_title=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=tokyonight&hide=prs&hide_title=true&line_height=24)
 </p>
 <p align = left><img src=https://komarev.com/ghpvc/?username=Niaktes alt=ZakharenkoSergei/></p>
 
