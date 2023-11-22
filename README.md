@@ -1,13 +1,13 @@
-![Header](./images/header.png)
+![Header](./images/header_wh.png)
 
 <h3>Right now I'm looking for a job, so feel free to contact me one of the following ways!</h3>
 
 
 # My contacts: <img src="./images/Contacts.gif" height="50" loading="lazy"/>
-Phone: +7 995 299 07 34 </br>
-<a href="https://t.me/Niaktes"><img src="./icons/telegram_logo_icon_186899.png" alt="Telegram" height="65"></a>
-<a href="https://wa.me/89265900734"><img src="./icons/whatsapp_logo_icon_186881.png" alt="Whatsapp" height="65"></a>
-<a href="mailto:Sergei.Rabota@gmail.com"><img src="./icons/gmail_14189.png" alt="Mail" height="65"></a>
+<h3><img src="./icons/phone_icon-icons.com_48251_wh.png" alt="Telegram" height="20"> +7 995 299 07 34</br></h3>
+<a href="https://t.me/Niaktes"><img src="./icons/telegram_logo_icon_186899.png" alt="Telegram" height="50"></a>
+<a href="https://wa.me/89265900734"><img src="./icons/whatsapp_logo_icon_186881.png" alt="Whatsapp" height="50"></a>
+<a href="mailto:Sergei.Rabota@gmail.com"><img src="./icons/gmail_14189.png" alt="Mail" height="50"></a>
 
 
 # Used tools: <img src="./images/Skills.gif" height="50" loading="lazy"/>
