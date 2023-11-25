@@ -28,7 +28,7 @@
 # My GitHub Stats: <img src="./images/Stats.gif" height="50" loading="lazy"/>
 <p float="left">
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&theme=tokyonight&hide=Shell&hide_title=true)](https://github.com/Niaktes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&theme=tokyonight&hide=Shell&hide_title=true)](https://github.com/Niaktes/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=tokyonight&hide=prs&hide_title=true&line_height=24)
 </p>
 <p align = left><img src=https://komarev.com/ghpvc/?username=Niaktes alt=ZakharenkoSergei/></p>
