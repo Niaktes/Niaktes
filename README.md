@@ -12,24 +12,23 @@
 
 # Used tools: <img src="./images/Skills.gif" height="50" loading="lazy"/>
 <p float="left">
-<img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396?logo=java&logoColor=white" height="25"> 
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="25">
-<img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25">
-<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" height="25">
-<img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162?logo=check-circle&logoColor=white" height="25">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-007396?logo=docker&logoColor=white" height="25">
-<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=Apache Maven&logoColor=white" height="25">
-<img alt="Git" src="https://img.shields.io/badge/GIT-F05033?logo=git&logoColor=white" height="25">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" height="25">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" height="25">
+  <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396?logo=java&logoColor=white" height="25"></a>
+  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="25"></a>
+  <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25"></a>
+  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" height="25"></a>
+  <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162?logo=check-circle&logoColor=white" height="25"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-007396?logo=docker&logoColor=white" height="25"></a>
+  <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=Apache Maven&logoColor=white" height="25"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-F05033?logo=git&logoColor=white" height="25"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" height="25"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" height="25"></a>
 </p>
 
 
 # My GitHub Stats: <img src="./images/Stats.gif" height="50" loading="lazy"/>
 <p float="left">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&theme=tokyonight&hide=Shell&hide_title=true)](https://github.com/Niaktes/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=tokyonight&hide=prs&hide_title=true&line_height=24)
+  <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&theme=tokyonight&hide=Shell&hide_title=true"/></a>
+  <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=tokyonight&hide_title=true&"/></a>
 </p>
 <p align = left><img src=https://komarev.com/ghpvc/?username=Niaktes alt=ZakharenkoSergei/></p>
 
