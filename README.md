@@ -30,7 +30,7 @@
   <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niaktes&theme=tokyonight&hide=Shell&hide_title=true"/></a>
   <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Niaktes&show_icons=true&theme=tokyonight&hide_title=true&"/></a>
 </p>
-<p align = left><img src=https://komarev.com/ghpvc/?username=Niaktes alt=ZakharenkoSergei/></p>
+<p align = left><img src="https://komarev.com/ghpvc/?username=Niaktes" alt=ZakharenkoSergei/></p>
 
 <!--
 Here are some ideas to get you started:
