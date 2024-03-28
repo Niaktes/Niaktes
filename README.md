@@ -1,6 +1,6 @@
 ![Header](./images/header_wh.png)
 
-<h3>Right now I'm looking for a job, so feel free to contact me one of the following ways!</h3>
+<!-- <h3>Right now I'm looking for a job, so feel free to contact me one of the following ways!</h3> -->
 
 
 # My contacts: <img src="./images/Contacts.gif" height="50" loading="lazy"/>
