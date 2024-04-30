@@ -5,9 +5,9 @@
 
 # My contacts: <img src="./images/Contacts.gif" height="50" loading="lazy"/>
 <h3><img src="./icons/phone_icon-icons.com_48251_wh.png" alt="Telegram" height="20"> +7 995 299 07 34</br></h3>
-<a href="https://t.me/Niaktes"><img src="./icons/telegram_logo_icon_186899.png" alt="Telegram" height="50"></a>
+<a href="https://t.me/SZakharenko"><img src="./icons/telegram_logo_icon_186899.png" alt="Telegram" height="50"></a>
 <a href="https://wa.me/89265900734"><img src="./icons/whatsapp_logo_icon_186881.png" alt="Whatsapp" height="50"></a>
-<a href="mailto:Sergei.Rabota@gmail.com"><img src="./icons/gmail_14189.png" alt="Mail" height="50"></a>
+<a href="mailto:Sergei.Zakharenko.it@gmail.com"><img src="./icons/gmail_14189.png" alt="Mail" height="50"></a>
 
 
 # Used tools: <img src="./images/Skills.gif" height="50" loading="lazy"/>
